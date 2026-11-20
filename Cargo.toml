@@ -1,0 +1,8 @@
+[package]
+name = "kael-sandbox"
+version = "0.1.0"
+edition = "2024"
+publish = false
+description = "Throwaway sandbox crate for Kael's end-to-end loop tests."
+
+[dependencies]
